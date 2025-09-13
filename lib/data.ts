@@ -153,3 +153,9 @@ export const competenciesData = [
     "TypeScript",
     "Mysql"
 ]
+
+// ...existing code...
+export const experiencesData = [
+  // 你的经历数据
+]
+// ...existing code...
