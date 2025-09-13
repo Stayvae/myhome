@@ -35,28 +35,6 @@ export default function About() {
           </div>
     
 
-         
-          <p className="mb-3">
-           To document my growth journey and find like-minded peers, I share my thoughts on multiple platforms😂: WeChat public account 
-           <span className="font-medium italic"> &quot;JieNitang&quot; </span> 
-           and Bilibili 
-           <span className="font-medium italic"> &quot;Hanburg&quot; </span>  
-           have recorded technical notes and life snippets (currently paused for graduation preparations). My personal moments serve as a &quot;growth diary&quot;😌, frequently sharing learning challenges, pitfalls, and occasional emotional fragments - both to avoid forgetting and to spark ideas with friends.
-          </p>
-
-          <p className="mb-3">
-          As a NetEase Cloud Music partner (<span className="font-medium italic"> &quot;JieNitang&quot; </span>: enjoying permanent VIP benefits😎), &quot;listening to music&quot; is my preferred way to recharge. Beyond technical learning, it preserves my emotional connection to life. Numerous experiences have taught me resilience in adversity, conflict, failure and even success. I firmly believe perseverance, focus and confidence are among my most valuable qualities.
-          </p>
-
-          <p className="mb-3">
-          I recognize I&apos;m still in early growth stages, needing to refine both technical skills and professional awareness✍. But diverse experiences have cultivated my ability to &quot;quickly adapt and reflect&quot;🧘‍♂. Moving forward, I hope to join a team combining technical atmosphere with growth space🤝, translating potential into value through diligent work while learning systematic approaches from colleagues.   
-          </p>  
-
-          <p className="mb-3">
-          I sincerely hope that every friend can be full of expectations for the future. May our courage always be burning hot!
-          <span className="text-xl md:text-2xl font-bold italic underline">Go forward!🚀🚀🚀</span>
-          </p> */}
-
           
 
           
