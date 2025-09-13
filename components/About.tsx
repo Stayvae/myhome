@@ -58,8 +58,8 @@ export default function About() {
           <p className="mb-3">
           <span className="text-xl md:text-2xl font-bold italic underline">Hello everyone!</span> <span className="text-xl md:text-2xl font-bold">😘</span>I am an optimistic and positive person.
            <span className="text-xl md:text-2xl font-bold"></span>.
-           My major is Computer Application Technology 😳, but my coding skills are still average 📟, and I’m continuously learning.
-           Currently, I’m working in a field unrelated to my major 💼, which is a pretty "huge" career shift, but I still use my free time to study computer science 😎.
+           My major is Computer Application Technology 😳, but my coding skills are still average 📟, and I m continuously learning.
+           Currently, I m working in a field unrelated to my major 💼, which is a pretty "huge" career shift, but I still use my free time to study computer science 😎.
            
            
           </p>
