@@ -1,0 +1,18 @@
+{
+    "IntroSection": {
+        "hello_im": "Hi, my name is",
+        "name": "Stay",
+        "short_intro": "Live a good life meet slowly。",
+        "download_cv": "",
+        "blog": "Blog"
+    },
+    "SectionName": {
+        "about": "",
+        "timeline": "",
+        "projects": "",
+        "competencies": ""
+    },
+    "AboutSection": {
+        "desc": ""
+    }
+}

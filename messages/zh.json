@@ -1,0 +1,18 @@
+{
+    "IntroSection": {
+        "hello_im": "你好，我是",
+        "name": "Stay",
+        "short_intro": "此行山高又路远",
+        "download_cv": "",
+        "blog": "个人网站"
+    },
+    "SectionName": {
+        "about": "",
+        "timeline": "",
+        "projects": "",
+        "competencies": ""
+    },
+    "AboutSection": {
+        "desc": "大家好，我是Stay，一个乐观积极的人。我主修计算机应用技术，虽然编程技能还算不上出色，但我一直在不断学习。目前，我在一个与专业不相关的领域工作，这对我来说是一个巨大的转变，但我仍然利用业余时间学习计算机科学。"
+    }
+}
