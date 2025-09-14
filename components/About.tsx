@@ -6,6 +6,7 @@ import SectionHeading from "./SectionHeading"
 import { useSectionInView } from "@/lib/hooks"
 import { useLocale, useTranslations } from "next-intl"
 
+
 export default function About() {
   const { ref } = useSectionInView("About")
   const t = useTranslations("AboutSection")
@@ -15,7 +16,7 @@ export default function About() {
   return (
     <motion.section
       ref={ref}
-      className="mb-50 max-w-[45rem] text-start leading-8 sm:mb-40 scroll-mt-28 mb-28 "
+      className="max-w-[45rem] text-start leading-8 scroll-mt-28 mb-28 sm:mb-40"
       initial={{ opacity: 0, y: 100 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: 0.175 }}
