@@ -2,7 +2,7 @@
 
 import Image from "next/image"
 import { motion } from "framer-motion"
-import { BsArrowRight, BsLinkedin,  SiNeteasecloudmusic,  } from "react-icons/si"
+import { SiNeteasecloudmusic,  } from "react-icons/si"
 import { HiDownload,  } from "react-icons/hi"
 import { FaGithub, FaEnvelope, FaFileWord } from "react-icons/fa"
 import { FaBilibili } from "react-icons/fa6";

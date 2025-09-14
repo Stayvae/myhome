@@ -330,7 +330,7 @@ export default function Project({
             {/* 富文本描述：原有逻辑不变 */}
             <p className="mt-2 leading-relaxed text-gray-700 dark:text-white/70">
               {activeLocale === "zh" 
-                ? <span dangerouslySetInnerHTML={{ __html: desc_zh }} /> 
+                ? <span dangerouslySetInnerHTML={{ __html: desc_zh || '' }} /> 
                 : <span dangerouslySetInnerHTML={{ __html: description }} />
               }
             </p>
