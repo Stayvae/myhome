@@ -71,7 +71,7 @@ export const experiencesDataZn = [
 
      {
         "title": "个人网站搭建",
-        "location": "xxx",
+        "location": "home.echolx.com",
         "description": "自主学习搭建起个人网站，从零开始，经历了无数次的调试和修改，终于完成了网站的初步搭建。使用 React 和 Next.js（App Router 和 Server Actions）、TypeScript、Tailwind CSS、Framer Motion 构建。",
         icon: React.createElement(FaGlobe),
         "date": "2025 年 7 月"
